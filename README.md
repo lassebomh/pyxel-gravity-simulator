@@ -11,7 +11,7 @@ This project is a sandbox minigame that simulates gravity. It was made purely fo
 ![](https://media.giphy.com/media/MBfxqlYapwfZoapIpn/giphy.gif)
 
 #### Planets can collide  
-![](https://media.giphy.com/media/LoNPQAQV8Fa8Nm5T2J/giphy.gif)
+![](https://media.giphy.com/media/j2SqilfUPiXoesvATj/giphy.gif)
 
 # How to use
 
