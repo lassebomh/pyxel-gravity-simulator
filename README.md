@@ -8,7 +8,7 @@ This project is a sandbox minigame that simulates gravity. It was made purely fo
 ![](https://media.giphy.com/media/JoPrWaF4IymEc9giz9/giphy.gif)
 
 #### Predict the future!  
-![](https://media.giphy.com/media/WQ6hiBTrLXgvUpTTlH/giphy.gif)
+![](https://media.giphy.com/media/MBfxqlYapwfZoapIpn/giphy.gif)
 
 #### Planets can collide  
 ![](https://media.giphy.com/media/LoNPQAQV8Fa8Nm5T2J/giphy.gif)
