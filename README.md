@@ -1,5 +1,5 @@
 # pyxel-gravity-simulator
-This project is a sandbox minigame that simulates gravity. It was made purely for fun in my spare time, so i didn't bother to optimize it. The game uses partial derivatives to calculate the forces, and the python module 'pyxel' as UI.
+This project is a sandbox minigame that simulates gravity. It was made purely for fun in my spare time, so i didn't bother to optimize it. The game uses partial derivatives to calculate the forces, and [the python module pyxel](https://pypi.org/project/pyxel/) for GUI.
 
 ![](https://media.giphy.com/media/JRDog1OxB7g2jdI8Rv/giphy.gif)
 
