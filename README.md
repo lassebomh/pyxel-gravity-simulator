@@ -2,7 +2,7 @@
 This project is a sandbox minigame that simulates gravity. It was made purely for fun in my spare time, so i didn't bother to optimize it. The game uses [gradients](https://en.wikipedia.org/wiki/Gradient) (partial derivatives) to calculate the forces, and [the python module pyxel](https://pypi.org/project/pyxel/) for GUI.
 
 ### Pyxel
-I choose pyxel because of its simplicity, but I do not recommend it's use if you're expecting to expand your project beyond a basic concept pierce. You will quickly run into problems such as the limit to only use 16 different colors, as well as the maximum resolution of 255 x 255 pixels. If i was ever to redo the project, i would most likely build it with [pyglet](http://pyglet.org/) - another powerful and very pythonic API for videogames and other multimedia stuff.  
+I choose pyxel because of its simplicity, but I do not recommend it's use if you're expecting to expand your project beyond a basic concept piece. You will quickly run into problems such as the limit to only use 16 different colors, as well as the maximum resolution of 255 x 255 pixels. If i was ever to redo the project, i would most likely build it with [pyglet](http://pyglet.org/) - another powerful and very pythonic API for videogames and other multimedia stuff.  
 
 ![](https://media.giphy.com/media/JRDog1OxB7g2jdI8Rv/giphy.gif)
 
